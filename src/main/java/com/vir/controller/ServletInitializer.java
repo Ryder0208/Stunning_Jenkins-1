@@ -1,4 +1,4 @@
-package com.vir;
+package com.vir.controller;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
